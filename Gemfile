@@ -26,7 +26,10 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
-gem "jekyll-scholar", group: :jekyll_plugins
-gem "unicode", group: :jekyll_plugins
+# gem "jekyll-scholar", group: :jekyll_plugins
+# gem "unicode", group: :jekyll_plugins
+#
 group :jekyll_plugins do
+gem "jekyll-scholar"
+gem "unicode"
 end
