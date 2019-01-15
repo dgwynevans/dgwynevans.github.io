@@ -250,7 +250,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-scholar
 
 # Archives
 #  Type
