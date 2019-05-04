@@ -9,7 +9,7 @@ classes: wide
 
 {% include figure image_path="/assets/images/2017-04-15 11.14.31.jpg" alt="eifls" %}
 
-1. **Evans, D. G.**, Zika, J. D., Naveira Garabato, A. C., &amp; Nurser, A. J. G. (2018). The cold transit of Southern Ocean upwelling. <i>Geophys. Res. Lett.</i>, <i>45</i>. [https://doi.org/https://doi.org/10.1029/2018GL079986](https://doi.org/https://doi.org/10.1029/2018GL079986)
+1. **Evans, D. G.**, Zika, J. D., Naveira Garabato, A. C., &amp; Nurser, A. J. G. (2018). The cold transit of Southern Ocean upwelling. <i>Geophys. Res. Lett.</i>, <i>45</i>. [https://doi.org/10.1029/2018GL079986](https://doi.org/10.1029/2018GL079986)
 2. **Evans, D. G.**, Lucas, N. S., Hemsley, V., Frajka-Williams, E., Naveira Garabato, A. C., Martin, A., … Palmer, M. R. (2018). Annual Cycle of Turbulent Dissipation Estimated from Seagliders. <i>Geophysical Research Letters</i>, <i>45</i>, 10,560–510,569. [https://doi.org/10.1029/2018GL079966](https://doi.org/10.1029/2018GL079966)
 3. Naveira Garabato, A. C., MacGilchrist, G. A., Brown, P. J., **Evans, D. G.**, Meijers, A. J. S., &amp; Zika, J. D. (2017). High-latitude ocean ventilation and its role in Earth’s climate transitions. <i>Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences</i>, <i>375</i>(2102), 20160324. [https://doi.org/10.1098/rsta.2016.0324](https://doi.org/10.1098/rsta.2016.0324)
 4. **Evans, D. G.**, Toole, J., Forget, G., Zika, J. D., Naveira Garabato, A. C., Nurser, A. J. G., &amp; Yu, L. (2017). Recent Wind-Driven Variability in Atlantic Water Mass Distribution and Meridional Overturning Circulation. <i>Journal of Physical Oceanography</i>, <i>47</i>(3), 633–647. [https://doi.org/10.1175/JPO-D-16-0089.1](https://doi.org/10.1175/JPO-D-16-0089.1)
