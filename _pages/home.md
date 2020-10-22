@@ -28,14 +28,20 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-  - image_path: /assets/images/2016-11-29 16.13.10.jpg
+  # - image_path: /assets/images/2016-11-29 16.13.10.jpg
+  #   alt: "blog"
+  #   title: "Eddy Hunting"
+  #   excerpt: "Read a blog post I wrote for the Challenger society about eddy hunting in the Bahamas."
+  #   url: "https://challengercaptainsblog.wordpress.com/2017/01/29/mermeed-eddy-hunting-dafydd-gwyn-evans/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
+  - image_path: /assets/images/inspire2021_ad.png
     alt: "blog"
-    title: "Eddy Hunting"
-    excerpt: "Read a blog post I wrote for the Challenger society about eddy hunting in the Bahamas."
-    url: "https://challengercaptainsblog.wordpress.com/2017/01/29/mermeed-eddy-hunting-dafydd-gwyn-evans/"
+    title: "PhD opportunity"
+    excerpt: "Exciting opportunity for a PhD at NOCS, investigating the role of North Atlantic mode waters as heat and carbon sinks"
+    url: "/inspire2021/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    
 ---
 
 {% include feature_row %}
